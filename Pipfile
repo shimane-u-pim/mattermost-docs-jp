@@ -17,7 +17,7 @@ pytest = "==7.4.2"
 exceptiongroup = {version = "*", markers = "python_version < '3.11'"}
 #
 # Black: A Python source formatter
-black = "==23.10.1"
+black = "==24.3.0"
 #
 # Docutils Stubs
 docutils-stubs = "==0.0.22"

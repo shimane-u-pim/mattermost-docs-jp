@@ -47,7 +47,7 @@ sphinx-autobuild = "==2021.3.14"
 #
 # Setuptools; used by sphinx-tabs
 # Repo: https://github.com/pypa/setuptools
-setuptools = "==68.2.2"
+setuptools = "==70.0.0"
 #
 # Add a "copy" button to code blocks in Sphinx (https://sphinx-copybutton.readthedocs.io/en/latest/)
 # Repo: https://github.com/executablebooks/sphinx-copybutton
